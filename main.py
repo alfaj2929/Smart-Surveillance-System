@@ -3,7 +3,7 @@ import mediapipe as mp
 import math, scipy.spatial, time, subprocess
 from playsound import playsound
 # path to the alarm sound file
-alarm_file = "/Users/srushtihirve/Downloads/Alarm-Fast-A1-www.fesliyanstudios.com.mp3"
+alarm_file = "../Alarm-Fast-A1-www.fesliyanstudios.com.mp3"
 # keep the value float
 confidence_val = 0.7
 # True for black Mask Mode
